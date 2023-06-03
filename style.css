@@ -262,6 +262,8 @@ content{
 .links > p:hover{
 	color: #A971F1;
 }
+.links > a{margin-left: 10px; transition: 50ms; cursor: pointer;}
+.links > a:hover{color: #A971F1}
 
 .header{
 	background-color: white;
