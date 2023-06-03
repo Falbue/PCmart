@@ -299,3 +299,12 @@ content{
 	color: #A971F1;
 	font-size: 20px;
 }
+
+.radio{
+	height: 550px;
+}
+
+.page3 > div{
+	display: flex;
+	flex-wrap: wrap;
+}
