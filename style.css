@@ -314,3 +314,26 @@ content{
 	display: flex;
 	flex-wrap: wrap;
 }
+
+
+ table, th, td {
+	border-top: 2px solid #9F9F9F;
+	border-bottom: 2px solid #9F9F9F;
+	border-left: none;
+	border-right: none;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 40px;
+}
+th{padding-bottom: 40px;}
+td{
+	padding-left: 20px; 
+	padding-right: 20px;
+}
+thead{
+	background-color: #392A42;
+	color: white;
+}
+table{
+	margin-left: 30px;
+}
